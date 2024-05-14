@@ -1,0 +1,26 @@
+[
+  {
+    "fullName": "Satriyo",
+    "email": "goron@gmail.com",
+    "phone": "0",
+    "address": "Jakarta",
+    "postalCode": "02524",
+    "status": "Active"
+  },
+  {
+    "fullName": "Muhammad Satriyo Noto Negoro",
+    "email": "admin@argon.com",
+    "phone": "081227578398",
+    "address": "Jl. Haji Saidi no. 29B, RT 7/RW 5, Tj.Barat, Jagakarsa, Jakarta Selatan",
+    "postalCode": "12620",
+    "status": "Active"
+  },
+  {
+    "fullName": "Muhammad Satriyo Noto Negoro",
+    "email": "test@gmail.com",
+    "phone": "081227578398",
+    "address": "Jl. Haji Saidi no. 29B, RT 7/RW 5, Tj.Barat, Jagakarsa, Jakarta Selatan",
+    "postalCode": "12620",
+    "status": "Inactive"
+  }
+]
