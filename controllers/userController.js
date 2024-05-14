@@ -2,7 +2,7 @@ const User = require('../models/User');
 const fs = require('fs-extra');
 const path = require('path');
 
-const dataFilePath = path.join(__dirname, '../data/users.json');
+const dataFilePath = path.join(__dirname, 'data','users.json');
 
 exports.createUser = async (req, res) => {
   try {
